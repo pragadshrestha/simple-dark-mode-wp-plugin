@@ -20,10 +20,3 @@ Perfect for blogs, e-commerce sites, portfolios, or any WordPress website seekin
 1. Upload the `simple-dark-mode-switcher-plugin` folder to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the 'Plugins' screen in WordPress.
 3. Visit 'Settings' to configure the switcher's default settings and button text.
-
-##### Changelog
-
-= 1.0 =
-* Initial release with dark mode toggle functionality.
-* Option to set dark mode by default.
-* Time-zone-based dark mode setting introduced.
