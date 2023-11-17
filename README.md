@@ -4,7 +4,7 @@ A simple, efficient dark mode switcher for your WordPress site which let you tog
 
 ### Description
 
-Introducing **Simple Dark Mode Site Switcher** — a simple, lightweight, and powerful solution that empowers users to switch between the classic light and the comfortable dark mode on your website. With options for default settings and time-zone-based theme switching, this plugin offers flexibility while maintaining optimal performance.
+Introducing **Simple Dark Mode Switcher Plugin** — a simple, lightweight, and powerful solution that empowers users to switch between the classic light and the comfortable dark mode on your website. With options for default settings and time-zone-based theme switching, this plugin offers flexibility while maintaining optimal performance.
 
 **Key Features**:
 
