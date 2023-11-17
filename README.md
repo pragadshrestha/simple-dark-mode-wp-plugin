@@ -21,19 +21,9 @@ Perfect for blogs, e-commerce sites, portfolios, or any WordPress website seekin
 2. Activate the plugin through the 'Plugins' screen in WordPress.
 3. Visit 'Settings' to configure the switcher's default settings and button text.
 
-### Screenshots 
-
-1. Dark Mode Site Switcher button in action on a sample website.
-2. Settings page showing the configuration options for the plugin.
-
 ##### Changelog
 
 = 1.0 =
 * Initial release with dark mode toggle functionality.
 * Option to set dark mode by default.
 * Time-zone-based dark mode setting introduced.
-
-== Upgrade Notice ==
-
-= 1.0 =
-Initial release. Introduces dark mode toggle for WordPress sites.
